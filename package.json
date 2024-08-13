@@ -1,0 +1,21 @@
+{
+    "name": "lab-4-demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "sum.js",
+    "scripts": {
+        "lint": "eslint .",
+        "test-unit": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "",
+    "devDependencies": {
+        "@eslint/js": "^9.9.0",
+        "eslint": "^9.9.0",
+        "eslint-plugin-react": "^7.35.0",
+        "globals": "^15.9.0",
+        "jest": "^27.5.1",
+        "jest-junit": "^13.0.0"
+    }
+}
